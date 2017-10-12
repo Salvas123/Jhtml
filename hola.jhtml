@@ -1,0 +1,6 @@
+'DIV', content:'Hola' name:'Adios' #
+-'H1', content:'Hai' name:'Adios' #
+-'H2', content:'adios' name:'' #
+-'FORM', content:'' name:'miformu' #
+--'INPUT', content:'' name:'lol' 'type':'button' 'value':'lol' 'onclick':'jodete()' #
+--'INPUT', content:'' name:'lol2' 'type':'text' 'value':'no' #
